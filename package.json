@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是我自己创建的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyujuan123/ibook.git"
+  },
+  "keywords": [],
+  "author": "zhangyujuan123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangyujuan123/ibook/issues"
+  },
+  "homepage": "https://github.com/zhangyujuan123/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
